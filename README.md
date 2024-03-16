@@ -10,7 +10,7 @@ The two parts are glued together by a Windows Batch file.
 
 ## Usage
 
-You will need `python3` and to run `pip install lz4` to use this script properly.
+To properly use this script, install `python3`, then run `pip install lz4`.
 
 ### Decoding a Save
 
